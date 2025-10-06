@@ -6,7 +6,6 @@ permalink: /publication/vortons
 excerpt: 'We introduce a toy model for shear flows, exploiting the spatial intermittency and the scale separation between large-scale flows and small-scale structures. The model is highly sparse, focusing exclusively on the most intense structures, which are represented by vortons—dynamically regularized quasisingularities that experience rapid distortion from the large-scale shear. The vortons, in turn, influence the large-scale flow through the subgrid stress tensor. Despite its simplicity, the model displays an interesting transition between two distinct regimes: (i) a laminar regime, where dissipation is entirely attributed to the large-scale flow and the vortons dynamics is essentially diffusive, and (ii) a turbulent regime, in which most of the dissipation arises from the vortons. These regimes correspond to different scalings of dissipation and the Grashof number as functions of the Reynolds number, with power-law relationships that resemble those observed in classical turbulence.'
 date: 2025-05-1
 venue: 'Physical Review Fluids'
-paperurl: 'http://wruffen.github.io/files/PhysRevFluids.10.054601.pdf'
 ---
 
 Coming soon
