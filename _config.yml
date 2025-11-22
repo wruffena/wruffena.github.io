@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : #"Wandrille Ruffenach"
+title                    : "Wandrille Ruffenach"
 title_separator          : "-"
 name                     : &name "Wandrille Ruffenach"
 description              : &description "Turbulence, non-linear dynamics"
