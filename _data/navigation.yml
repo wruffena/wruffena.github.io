@@ -11,10 +11,11 @@ main:
 - title: "Publications"
   url: /publications/
 
+- title: "CV"
+    url: /files/Wandrille_Ruffenach_Resume(1).pdf
+
 #  - title: "Talks"
 #    url: /talks/    
 
  # - title: "Teaching"
  #   url: /teaching/    
-- title: "CV"
-    url: /files/Wandrille_Ruffenach_Resume(1).pdf
