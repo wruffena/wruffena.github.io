@@ -12,7 +12,8 @@ main:
   url: /publications/
 
 - title: "CV"
-    url: /files/Wandrille_Ruffenach_Resume.pdf
+url:/CV/
+   # url: /files/Wandrille_Ruffenach_Resume.pdf
 
 #  - title: "Talks"
 #    url: /talks/    
