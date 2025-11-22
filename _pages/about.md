@@ -13,3 +13,4 @@ I am a second year Phd student at ENS de Lyon, under the supervision of [Laurent
 
 
 
+![Backward Probability measure from Ruffenach Simonnet Valade](/images/BackwardProba.png){:.align-right width="300px"}
