@@ -13,6 +13,6 @@ I am a second year Phd student at ENS de Lyon, under the supervision of [Laurent
 
 
 
-![Backward Probability measure from Ruffenach Simonnet Valade](/images/BacwardProba.png){: .align-right width="150px"}
-![Wavr collapse in fractionnal NLS](/images/NicePic.png){: .align-left width="150px"}
+![Backward Probability measure from Ruffenach Simonnet Valade](/images/BacwardProba.png){: .align-right width="500px"}
+![Wavr collapse in fractionnal NLS](/images/NicePic.png){: .align-left width="400px"}
 
