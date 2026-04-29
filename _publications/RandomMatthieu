@@ -27,7 +27,7 @@ particular proper temporal covariance of the Fourier modes. We finally derive an
 all statistical quantities in a continuous setup and develop precise and efficient numerical
 schemes of the corresponding periodic framework. Both exact predictions and numerical
 estimations of the model are compared to DNSs provided by the Johns Hopkins database.'
-date: 2025-09-16
+date: 2026-03-02
 venue: 'Journal Of Fluid Mechanics'
 paperurl: 'http://wruffena.github.io/files/2509.12567v1.pdf'
 ---
