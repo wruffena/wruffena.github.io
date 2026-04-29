@@ -1,0 +1,18 @@
+---
+title: "Numerical study of probabilistic well-posedness of one dimensional fractional nonlinear wave equations"
+collection: publications
+category: preprints
+permalink: /publication/NLW
+excerpt: 'The three dimensional cubic defocusing nonlinear wave equation is known to be ill-
+posed for general low regularity initial data. However, well-posedness can be recovered globally
+in time on a probabilistic level when considering random Gaussian initial data approximated by
+truncation of Fourier modes. These fine behaviors of nonlinear wave equations have not yet been
+observed numerically . In this article we perform numerical simulations of the one dimensional
+fractional cubic defocusing wave equation in a periodic setting. This allows us to explore energy
+subcritical and supercritial regimes. Our numerical results suggest that both norm inflation and
+probabilistic well-posedness can be observed numerically in energy sub-critical and super-critical
+regimes.'
+date: 2026-04-07
+venue: 'ArXiv Preprint'
+paperurl: 'http://wruffena.github.io/files/NLW.pdf'
+---
