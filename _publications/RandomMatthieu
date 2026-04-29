@@ -1,7 +1,7 @@
 ---
 title: "A causal random synthetic turbulent velocity field: The underlying Gaussian structure"
 collection: publications
-category: preprints
+category: journal articles
 permalink: /publication/RandomMatthieu
 excerpt: 'We develop, simulate and extend an initial proposition by Chaves et al. (2003) concerning
 a random incompressible vector field able to reproduce key ingredients of three-dimensional
@@ -28,7 +28,7 @@ all statistical quantities in a continuous setup and develop precise and efficie
 schemes of the corresponding periodic framework. Both exact predictions and numerical
 estimations of the model are compared to DNSs provided by the Johns Hopkins database.'
 date: 2025-09-16
-venue: 'ArXiv Preprint'
+venue: 'Journal Of Fluid Mechanics'
 paperurl: 'http://wruffena.github.io/files/2509.12567v1.pdf'
 ---
 
