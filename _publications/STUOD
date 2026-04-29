@@ -4,8 +4,8 @@ collection: publications
 category: preprints
 permalink: /publication/STUOD
 excerpt: 'We propose linear dynamics that can generate a given sea wavenumber spectrum via a linear partial differential equation stirred by an additive random forcing term that is δ-correlated in time. In particular, the correlation structure of the solution to this linear dynamics converges towards the target spectrum as time passes. The main linear mechanism is a transport in Fourier space, which models the transfer of energy from large scales towards small scales. The proposed linear dynamics generalize previous works for power-law spectra in the context of hydrodynamic turbulence to more general spectra, possibly non-radial, including sea wavenumber spectra such as the JONSWAP spectrum. Finally, we present simulations of the correlation structure of the solution to these dynamics in 2D, whose spectrum converges towards the JONSWAP spectrum. These simulations are based on a finite volume method in the Fourier domain and a splitting method in time, following a recently proposed numerical method by the same authors which improves on pseudospectral simulations.'
-date: 2025-07-28
-venue: 'HAL'
+date: 2026-03-01
+venue: 'Stochastic Transport in Upper Ocean Dynamics Annual Workshop'
 paperurl: 'http://wruffena.github.io/files/Proceeding_Stuod-Beck.pdf'
 ---
 
