@@ -11,7 +11,13 @@ Finally, we relate this framework to renormalization-group methods a la
 Feigenbaum and examine how the underlying dynamical system influences the inviscid limit. The discussion is complemented by elementary finite-dimensional examples illustrating a variety of cases.'
 date: 2025-04-22
 venue: 'ArXiv Preprint'
-paperurl: 'http://wruffena.github.io/files/2504.15795v1.pdf'
+paperurl: 'https://wruffena.github.io/files/2504.15795v1.pdf'
 ---
+## Abstract
 
-Coming soon
+Spontaneous stochasticity refers to the emergence of intrinsic randomness in deterministic systems under singular limits, a phenomenon conjectured to be fundamental in turbulence. Armstrong and Vicol recently constructed a deterministic, divergence-free multiscale vector field arbitrarily close to a weak Euler solution, proving that a passive scalar transported by this field exhibits anomalous dissipation and lacks a selection principle in the vanishing–diffusivity limit.
+We show that this advection-diffusion PDE also selects a non-Dirac measure in the space of weak solutions in the inviscid limit, thereby exhibiting Eulerian spontaneous stochasticity. We further provide numerical evidence of Lagrangian spontaneous stochasticity, together with a numerical illustration of the Obukhov-Corrsin conjecture for this system.
+We formulate a general framework for spontaneous stochasticity in arbitrary finite-dimensional systems under arbitrary regularizations, distinguishing two regimes: weak, where different probability measures may arise along subsequences of inviscid limits, and strong, where the limit measure is unique. The advection–diffusion system of~\cite{AV24} lies in the strong regime.
+We prove that the set of selected measures is compact and equals the closed convex hull of Dirac measures. Moreover, for any non-Dirac measure supported on the set of nonunique solutions of the inviscid system, there exists a regularization that produces strong spontaneous stochasticity.
+Finally, we relate this framework to renormalization-group methods a la 
+Feigenbaum and examine how the underlying dynamical system influences the inviscid limit. The discussion is complemented by elementary finite-dimensional examples illustrating a variety of cases.
