@@ -6,6 +6,8 @@ permalink: /publication/SuperfluidDrainVortex
 excerpt: 'Drain vortices are among the most common vortices observed in everyday life, yet their physics is complex due to the competition of vorticity’s transport and diffusion, and the presence of viscous layers and a free surface. Recently, it has become possible to study experimentally drain vortices in liquid helium II, a quantum fluid whose physics is characterised by the absence of viscosity and the quantisation of the circulation in the superfluid component. Using the Gross–Pitaevskii equation, we make a simple model of the problem which captures the essential physics ingredients, showing that the drain vortex of a pure superfluid consists of a bundle of vortex lines which, in the presence of a radial drain, twist, thus strengthening the axial flow into the drain.'
 date: 07 February 2023
 venue: 'Journal of Low Temperature Physics'
-paperurl: 'http://wruffena.github.io/files/s10909-023-02943-9.pdf'
+paperurl: 'https://wruffena.github.io/files/s10909-023-02943-9.pdf'
 ---
-Coming soon
+## Abstract
+
+Drain vortices are among the most common vortices observed in everyday life, yet their physics is complex due to the competition of vorticity’s transport and diffusion, and the presence of viscous layers and a free surface. Recently, it has become possible to study experimentally drain vortices in liquid helium II, a quantum fluid whose physics is characterised by the absence of viscosity and the quantisation of the circulation in the superfluid component. Using the Gross–Pitaevskii equation, we make a simple model of the problem which captures the essential physics ingredients, showing that the drain vortex of a pure superfluid consists of a bundle of vortex lines which, in the presence of a radial drain, twist, thus strengthening the axial flow into the drain.

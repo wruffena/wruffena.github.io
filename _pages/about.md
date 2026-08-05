@@ -1,18 +1,29 @@
 ---
 permalink: /
-title: Hello, I'm Wandrille !
-excerpt: About me
+title: "Wandrille Ruffenach — roughness, PDEs and turbulence"
+description: "Academic homepage of Wandrille Ruffenach, focused on roughness in physical systems: ill-posed PDEs, probabilistic well-posedness, spontaneous stochasticity, and statistical or reduced modeling of turbulence."
+excerpt: "Research on the consequences of roughness in physical systems, from PDE well-posedness to spontaneous stochasticity and turbulent modeling."
 author_profile: true
 redirect_from:
-  -/about/
-  -/about.html
-
+  - /about/
+  - /about.html
 ---
 
-I am a second year Phd student at ENS de Lyon, under the supervision of [Laurent Chevillard](https://perso.ens-lyon.fr/laurent.chevillard/) and [Nikolay Tzvetkov](https://tzvetkov.perso.math.cnrs.fr/) working on stochastic modeling in turbulence and non-linear wave dynamics. 
+I am a PhD student at ENS de Lyon, supervised by [Laurent Chevillard](https://perso.ens-lyon.fr/laurent.chevillard/) and [Nikolay Tzvetkov](https://tzvetkov.perso.math.cnrs.fr/). My research studies the consequences of roughness in physical systems, especially where singular dynamics, randomization, and turbulence make deterministic descriptions incomplete or unstable.
 
-![Backward Probability measure from Ruffenach Simonnet Valade](/images/BacwardProba.png){: .align-right width="400px"}
-![Wavr collapse in fractionnal NLS](/images/NicePic.png){: .align-left width="300px"}
+![Backward probability measure from Ruffenach, Simonnet and Valade](/images/BacwardProba.png){: .align-right width="400px"}
+![Wave collapse in fractional NLS](/images/NicePic.png){: .align-left width="300px"}
 
+## Roughness and PDEs
 
+I study how low regularity can produce ill-posedness in nonlinear evolution equations, and how randomness can restore meaningful dynamics. This includes numerical work on norm inflation and probabilistic well-posedness for nonlinear wave equations with rough initial data.
 
+## Roughness, regularization and randomness
+
+A second theme concerns spontaneous stochasticity: deterministic systems whose singular limits select probability laws rather than a single trajectory. I investigate how vanishing regularization, anomalous dissipation, and nonunique inviscid limits generate intrinsic uncertainty in passive scalars, collapse dynamics, and related finite-dimensional models.
+
+## Statistical and reduced modeling of turbulent systems
+
+I also develop stochastic and reduced models for turbulent systems. These projects include synthetic turbulent velocity fields, Gaussian multiplicative chaos models for dissipation, cascade dynamics, sea wavenumber spectra, and sparse subgrid-scale descriptions based on coherent structures.
+
+For details, see my [publications](/publications/).

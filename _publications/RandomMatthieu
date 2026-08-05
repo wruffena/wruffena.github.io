@@ -29,6 +29,31 @@ schemes of the corresponding periodic framework. Both exact predictions and nume
 estimations of the model are compared to DNSs provided by the Johns Hopkins database.'
 date: 2026-03-02
 venue: 'Journal Of Fluid Mechanics'
-paperurl: 'http://wruffena.github.io/files/2509.12567v1.pdf'
+paperurl: 'https://wruffena.github.io/files/2509.12567v1.pdf'
 ---
+## Abstract
 
+We develop, simulate and extend an initial proposition by Chaves et al. (2003) concerning
+a random incompressible vector field able to reproduce key ingredients of three-dimensional
+turbulence in both space and time. In this first article, we focus on the important underlying
+Gaussian structure that will be generalized in a second article to account for higher-order
+statistics. Presently, the statistical spatial structure of this velocity field is consistent with
+a divergence-free fractional Gaussian vector field that encodes all known properties of
+homogeneous and isotropic fluid turbulence at a given finite Reynolds number, up to
+second-order statistics. This includes the velocity power spectral density (PSD), with a
+given regularization at low wave-vectors allowing to introduce the integral length scale
+in the picture, and an exponential-like dissipative behavior taking place around a viscous-
+dependent appropriate length scale. The temporal structure of the velocity field is introduced
+through a stochastic evolution of the respective Fourier modes. In the simplest picture,
+Fourier modes evolve according to an Ornstein-Uhlenbeck process, where the characteristic
+time scale depends on the wave-vector amplitude. For consistency with direct numerical
+simulations (DNSs) of the Navier-Stokes equations, this time scale is inversely proportional
+to the wave vector amplitude. As a consequence, the characteristic velocity that governs the
+eddies is independent of their size and is related to the velocity standard deviation, which is
+consistent with some features of the so-called sweeping effect. To ensure differentiability in
+time while respecting the causal nature of the evolution, we use the methodology developed
+by Viggiano et al. (2020) to propose a fully consistent stochastic picture, predicting in
+particular proper temporal covariance of the Fourier modes. We finally derive analytically
+all statistical quantities in a continuous setup and develop precise and efficient numerical
+schemes of the corresponding periodic framework. Both exact predictions and numerical
+estimations of the model are compared to DNSs provided by the Johns Hopkins database.
