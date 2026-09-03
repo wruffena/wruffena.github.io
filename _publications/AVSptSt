@@ -1,12 +1,12 @@
 ---
-title: "Spontaneous stochasticity and the Armstrong-Vicol passive scalar"
+title: "Spontaneous stochasticity in the Armstrong-Vicol passive scalar"
 collection: publications
 category: preprints
 permalink: /publication/AVSpSt
-excerpt: 'We explore how randomness can emerge from a deterministic transport equation when diffusivity vanishes. The paper connects this spontaneous stochasticity to anomalous dissipation and tests the mechanism numerically.'
-date: 2025-04-22
+excerpt: 'We show that the Armstrong–Vicol advection-diffusion equation selects a non-Dirac measure in the inviscid limit, linking Eulerian and Lagrangian spontaneous stochasticity to anomalous dissipation.'
+date: 2025-09-19
 venue: 'ArXiv Preprint'
-paperurl: 'https://wruffena.github.io/files/2504.15795v1.pdf'
+paperurl: 'https://arxiv.org/pdf/2509.15683'
 ---
 ## Abstract
 

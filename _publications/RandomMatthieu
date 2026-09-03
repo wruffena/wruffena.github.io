@@ -1,12 +1,12 @@
 ---
-title: "A causal random synthetic turbulent velocity field: The underlying Gaussian structure"
+title: "A spatio-temporal random synthetic turbulent velocity field: The underlying Gaussian structure"
 collection: publications
 category: manuscripts
 permalink: /publication/RandomMatthieu
 excerpt: 'We build a fast, causal random velocity field that captures the spatial and temporal statistics of three-dimensional turbulence at the Gaussian level. Its predictions and numerical implementation are checked against direct Navier–Stokes simulations.'
 date: 2026-03-02
-venue: 'Journal Of Fluid Mechanics'
-paperurl: 'https://wruffena.github.io/files/2509.12567v1.pdf'
+venue: 'Journal of Fluid Mechanics, 1030, A23'
+paperurl: 'https://arxiv.org/pdf/2509.12567'
 ---
 ## Abstract
 

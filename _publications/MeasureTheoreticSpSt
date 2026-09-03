@@ -1,0 +1,15 @@
+---
+title: "A Measure-Theoretic Approach to Spontaneous Stochasticity"
+collection: publications
+category: preprints
+permalink: /publication/MeasureTheoreticSpSt
+excerpt: 'We introduce a measure-theoretic framework in which spontaneous stochasticity is understood as selection of a probability law when a regularization vanishes.'
+date: 2026-07-15
+venue: 'arXiv Preprint'
+paperurl: 'https://arxiv.org/pdf/2607.16328'
+---
+## Abstract
+
+We formulate spontaneous stochasticity as a measure-selection principle. Starting from an inviscid problem, a well-posed regularization and an ambient measure, we study the probability laws obtained by pushing that measure forward under the regularized flow as the regularization vanishes.
+
+In finite-dimensional systems, the framework distinguishes weak and strong spontaneous stochasticity and characterizes which limiting measures can be selected when the inviscid dynamics are nonunique. It also clarifies the roles of singular sets and sensitivity to initial data, and connects limiting statistics with a renormalization-group viewpoint.

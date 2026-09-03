@@ -1,0 +1,15 @@
+---
+title: "Spontaneous stochasticity and anomalous dissipation in collapsing wave turbulence"
+collection: publications
+category: preprints
+permalink: /publication/CollapsingWaveTurbulence
+excerpt: 'We study how vanishing regularizations of a finite-time wave collapse lead to nonunique post-collapse dynamics, anomalous dissipation and persistent probabilistic uncertainty.'
+date: 2026-07-21
+venue: 'arXiv Preprint'
+paperurl: 'https://arxiv.org/pdf/2607.18788'
+---
+## Abstract
+
+We study a focusing Majda–McLaughlin–Tabak-type equation whose classical solution ends in finite-time wave collapse. Viscous diffusion and nonlinear saturation both regularize the collapse, but their vanishing-regularization limits produce different post-collapse behavior: the viscous approximation dissipates mass anomalously, while the saturating approximation remains conservative.
+
+Small perturbations of either the regularization parameter or the initial condition generate finite uncertainty after collapse. The resulting probability laws place collapsing wave turbulence within the framework of spontaneous stochasticity and identify collapse events as localized sources of uncertainty.

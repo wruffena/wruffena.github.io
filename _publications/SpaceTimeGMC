@@ -2,12 +2,12 @@
 title: "The spatio-temporal statistical structure of the turbulent dissipation field and its
 stochastic representation as a Gaussian Multiplicative Chaos"
 collection: publications
-category: preprints
+category: manuscripts
 permalink: /publication/SpaceTimeGMC
 excerpt: 'We extend Gaussian multiplicative chaos from a spatial model of turbulent dissipation to a fully space-time one. Comparisons with direct Navier–Stokes simulations test whether the model captures how intense dissipation events evolve.'
-date: 2026-04-07
-venue: 'arXiv Preprint'
-paperurl: 'https://wruffena.github.io/files/2604.05736v1.pdf'
+date: 2026-06-05
+venue: 'Comptes Rendus. Physique, 27, 275–305'
+paperurl: 'https://arxiv.org/pdf/2604.05736'
 ---
 ## Abstract
 
