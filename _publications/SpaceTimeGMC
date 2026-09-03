@@ -4,7 +4,14 @@ stochastic representation as a Gaussian Multiplicative Chaos"
 collection: publications
 category: preprints
 permalink: /publication/SpaceTimeGMC
-excerpt: 'The present article concerns the stochastic modeling of the turbulent dissipation field and in
+excerpt: 'We extend Gaussian multiplicative chaos from a spatial model of turbulent dissipation to a fully space-time one. Comparisons with direct Navier–Stokes simulations test whether the model captures how intense dissipation events evolve.'
+date: 2026-04-07
+venue: 'arXiv Preprint'
+paperurl: 'https://wruffena.github.io/files/2604.05736v1.pdf'
+---
+## Abstract
+
+The present article concerns the stochastic modeling of the turbulent dissipation field and in
 particular its temporal evolution. To do so, we will be calling for a random distribution, ubiq-
 uitous in several aspects of physics and probability theory, known as the Gaussian Multiplicative
 Chaos (GMC), that takes its roots in the phenomenology of fluid turbulence. Firstly introduced by
@@ -15,8 +22,4 @@ lent phenomenology and its stochastic representation as a GMC, and propose a gen
 spatio-temporal framework. All along the presentation of known properties in space, and in order
 to support new propositions concerning the temporal evolution, we will be calling for a compari-
 son against Direct Numerical Simulations of the Navier-Stokes equations extracted from a publicly
-accessible database.'
-date: 2026-04-07
-venue: 'arxiv'
-paperurl: 'http://wruffena.github.io/files/2604.05736v1.pdf'
----
+accessible database.
