@@ -1,0 +1,230 @@
+---
+layout: single
+title: "Wandrille Ruffenach"
+seo_title: "Wandrille Ruffenach | Turbulence, rough PDEs and nonlinear dynamics"
+description: "Wandrille Ruffenach is a PhD researcher at ENS de Lyon working on turbulence, rough partial differential equations, spontaneous stochasticity, and nonlinear dynamics."
+author_profile: true
+permalink: /
+---
+
+<style>
+  .home-intro {
+    max-width: 52rem;
+    margin-bottom: 2rem;
+  }
+
+  .home-kicker {
+    margin: 0 0 0.6rem;
+    color: var(--global-link-color);
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .home-lead {
+    margin: 0;
+    font-size: clamp(1.05rem, 2vw, 1.28rem);
+    line-height: 1.65;
+  }
+
+  .home-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.65rem;
+    margin-top: 1.25rem;
+  }
+
+  .home-links a {
+    display: inline-block;
+    padding: 0.55rem 0.9rem;
+    border: 1px solid var(--global-border-color);
+    border-radius: 0.35rem;
+    font-size: 0.88rem;
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .home-links a:first-child {
+    color: #fff;
+    border-color: var(--global-link-color);
+    background: var(--global-link-color);
+  }
+
+  .research-gallery {
+    display: grid;
+    grid-template-columns: minmax(0, 1.7fr) minmax(12rem, 0.82fr);
+    gap: 1rem;
+    align-items: stretch;
+    margin: 2.2rem 0 2.8rem;
+  }
+
+  .research-figure {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    margin: 0;
+    overflow: hidden;
+    border: 1px solid var(--global-border-color);
+    border-radius: 0.55rem;
+    background: var(--global-bg-color);
+    box-shadow: 0 0.25rem 1rem rgba(0, 0, 0, 0.08);
+  }
+
+  .research-figure__image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: clamp(19rem, 38vw, 26rem);
+    padding: 0.45rem;
+    background: #05030c;
+  }
+
+  .research-figure img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    border: 0;
+    object-fit: contain;
+  }
+
+  .research-figure figcaption {
+    flex: 1;
+    padding: 0.8rem 0.9rem 0.9rem;
+    color: var(--global-text-color-light);
+    font-size: 0.78rem;
+    line-height: 1.45;
+  }
+
+  .research-figure figcaption strong {
+    display: block;
+    margin-bottom: 0.15rem;
+    color: var(--global-text-color);
+    font-size: 0.84rem;
+  }
+
+  .research-heading {
+    margin-bottom: 1rem;
+  }
+
+  .research-axis {
+    display: grid;
+    grid-template-columns: 2.3rem minmax(0, 1fr);
+    gap: 0.8rem;
+    padding: 1.05rem 0;
+    border-top: 1px solid var(--global-border-color);
+  }
+
+  .research-axis:last-child {
+    border-bottom: 1px solid var(--global-border-color);
+  }
+
+  .research-axis__number {
+    color: var(--global-link-color);
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+  }
+
+  .research-axis h3 {
+    margin: 0 0 0.25rem;
+    font-size: 1rem;
+  }
+
+  .research-axis p {
+    margin: 0;
+    font-size: 0.92rem;
+    line-height: 1.55;
+  }
+
+  @media (max-width: 700px) {
+    .research-gallery {
+      grid-template-columns: 1fr;
+    }
+
+    .research-figure__image {
+      height: auto;
+      max-height: none;
+      padding: 0;
+    }
+
+    .research-figure img {
+      height: auto;
+    }
+  }
+</style>
+
+<section class="home-intro" aria-labelledby="home-introduction">
+  <p class="home-kicker">PhD candidate · ENS de Lyon</p>
+  <p class="home-lead" id="home-introduction">
+I am interested in turbulence in a broad sense: how physical systems develop a multiscale behavior? What are the consequences of such multiscale behavior (at PDE level)? How can we model such systems? I am advised by
+    <a href="https://perso.ens-lyon.fr/laurent.chevillard/">Laurent Chevillard</a>
+    and <a href="https://tzvetkov.perso.math.cnrs.fr/">Nikolay Tzvetkov</a>.
+  </p>
+
+  <nav class="home-links" aria-label="Research links">
+    <a href="{{ site.baseurl }}/files/Wandrille_Ruffenach_CV.pdf">CV</a>
+    <a href="https://scholar.google.com/citations?user=ufnlRXAAAAAJ&amp;hl=en">Google Scholar</a>
+  </nav>
+</section>
+
+<section class="research-gallery" aria-label="Research visualizations">
+  <figure class="research-figure">
+    <div class="research-figure__image">
+      <img
+        src="{{ site.baseurl }}/images/BacwardProba.png"
+        alt="Spontaneous stochasticity in the Armstrong-Vicol passive scalar"
+        loading="eager"
+      >
+    </div>
+    <figcaption>
+      <strong>Spontaneous stochasticity</strong>
+     Spontaneous stochasticity in the Armstrong-Vicol passive scalar: Limiting probability laws emerging from singular, nonunique dynamics.
+    </figcaption>
+  </figure>
+
+  <figure class="research-figure">
+    <div class="research-figure__image">
+      <img
+        src="{{ site.baseurl }}/images/NicePic.png"
+        alt="Numerical visualization of wave collapse in a fractional nonlinear model"
+        loading="eager"
+      >
+    </div>
+    <figcaption>
+      <strong>Wave collapse</strong>
+Wave collapse in a fractional Nonlinear Schrodinger equation can lead to spontaneous stochasticity.
+    </figcaption>
+  </figure>
+</section>
+
+<section aria-labelledby="research-directions">
+  <h2 class="research-heading" id="research-directions">Research interests</h2>
+
+  <div class="research-axis">
+    <div class="research-axis__number">01</div>
+    <div>
+      <h3>Roughness and PDEs</h3>
+      <p>Ill-posedness and probabilistic well-posedness for nonlinear nonlinear wave equations.</p>
+    </div>
+  </div>
+
+  <div class="research-axis">
+    <div class="research-axis__number">02</div>
+    <div>
+      <h3> Spontaneous stochasticity </h3>
+      <p> Giving a well defined probabilistic meaning to inviscid limits such as the paradigmatic Navier-Stokes to Euler limit. </p>
+    </div>
+  </div>
+
+  <div class="research-axis">
+    <div class="research-axis__number">03</div>
+    <div>
+      <h3>Statistical modeling of turbulent systems</h3>
+      <p>Stochastic models and toy models encoding key features of turbulent flows </p>
+    </div>
+  </div>
+</section>
+
+

@@ -1,18 +1,1 @@
----
-permalink: /
-title: Hello, I'm Wandrille !
-excerpt: About me
-author_profile: true
-redirect_from:
-  -/about/
-  -/about.html
-
----
-
-I am a second year Phd student at ENS de Lyon, under the supervision of [Laurent Chevillard](https://perso.ens-lyon.fr/laurent.chevillard/) and [Nikolay Tzvetkov](https://tzvetkov.perso.math.cnrs.fr/) working on stochastic modeling in turbulence and non-linear wave dynamics. 
-
-![Backward Probability measure from Ruffenach Simonnet Valade](/images/BacwardProba.png){: .align-right width="400px"}
-![Wavr collapse in fractionnal NLS](/images/NicePic.png){: .align-left width="300px"}
-
-
-
+I am a PhD student at ENS de Lyon, supervised by [Laurent Chevillard](https://perso.ens-lyon.fr/laurent.chevillard/) and [Nikolay Tzvetkov](https://tzvetkov.perso.math.cnrs.fr/). ![Backward probability measure from Ruffenach, Simonnet and Valade](/images/BacwardProba.png){: .align-right width="400px"} ![Wave collapse in fractional NLS](/images/NicePic.png){: .align-left width="300px"} 
